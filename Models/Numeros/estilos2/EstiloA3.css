@@ -12,7 +12,7 @@ width:100%;
   .boton {
     position: relative;
     top: 0px; left:10px;
-  
+    
     display: table;
     border-radius: 15%;
     cursor: pointer;

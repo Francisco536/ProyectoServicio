@@ -9,7 +9,7 @@ background-size: cover;
   background-image: url(../Imagenes/Nivel1/Papel.png);
 width:100%; 
   }
-  .boton {
+  .boton {   
     position: relative;
     top: 8px; left:10px;
   

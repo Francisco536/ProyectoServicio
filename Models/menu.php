@@ -8,7 +8,7 @@ if(!isset($usuario)){
 }else{
     echo "<a href='../logica/salir.php' class='boton rojo' >Salir</a>";
 
-}
+}   
 
 ?>
 <!DOCTYPE html>

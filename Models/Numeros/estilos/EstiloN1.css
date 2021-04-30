@@ -10,7 +10,7 @@ background-size: cover;
   background-image: url(../Imagenes/Nivel1/Ejercicio.png);
 width:100%; 
 
-  }  
+  }     
   .boton {
     position: relative;
     top: 100px; left:150px;

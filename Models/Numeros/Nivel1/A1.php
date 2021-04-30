@@ -11,7 +11,7 @@
   <a href="../../menu.php" style=" background: url(../Imagenes/este.PNG) /* Url de la imagen */ no-repeat center center, 
 #62BC0F /* Color del botón */; background-size: 110%; height: 55px;  /* Alto del botón */
   width: 110px;  /* Ancho del botón */"class="leekids" ></a>
-  
+     
 </head>
 <body><center>
 <video src="../video/numeros.mp4" width=60%  height=300 controls poster="../Imagenes/Nivel1/CancionVideo.png">

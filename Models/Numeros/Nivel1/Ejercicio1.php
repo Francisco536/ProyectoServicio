@@ -17,14 +17,14 @@
 /* Color del botón */; background-size: 125%; 
 height: 215px;  /* Alto del botón */ 
  width: 225px;  /* Ancho del botón */"class="boton"></a>
-
+   
  
 <a href="A2.php" style=" background: url(../Imagenes/Nivel1/Tabla.png) /* Url de la imagen */ no-repeat center center 
 /* Color del botón */; background-size: 125%; 
 height: 215px;  /* Alto del botón */ 
  width: 225px;  /* Ancho del botón */"class="boton2"></a>
 
- 
+   
 <!--<a href="A3.php" style=" background: url(../Imagenes/Nivel1/Asociar.png) /* Url de la imagen */ no-repeat center center 
 /* Color del botón */; background-size: 170%; 
 height: 215px;  /* Alto del botón */ 

@@ -17,7 +17,7 @@
 background-size: 115%;
  height: 90px;  /* Alto del botón */
   width: 100px;  /* Ancho del botón */"class="boton4"></a> 
-<section>
+<section>  
 <a href="A1.php" style=" background: url(../Imagenes/Nivel2/Planilla.png) /* Url de la imagen */ no-repeat center center 
 /* Color del botón */; background-size: 115%; 
 height: 215px;  /* Alto del botón */ 

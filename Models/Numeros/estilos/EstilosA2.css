@@ -9,7 +9,7 @@ body{
     display: table;
     border-radius: 70%;
     cursor: pointer;
-      box-shadow:
+      box-shadow:   
   /* Sombras externa */
   inset 0 10px 15px rgba(255,255,255,.35), inset 0 -10px 15px rgba(0,0,0,.05), inset 10px 0 15px rgba(0,0,0,.05), inset -10px 0 15px rgba(0,0,0,.05),
   /* Sombra interna */

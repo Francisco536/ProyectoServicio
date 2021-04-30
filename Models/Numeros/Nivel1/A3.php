@@ -7,7 +7,7 @@
     <title>Document</title>
     <link rel="stylesheet" type="text/css" href="../estilos/EstilosA2.css" />
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximun-scale=1.0, minimum-scale=1.0">
-  
+    
 </head>
 <body><center>
 <img src="../Imagenes/Nivel1/AsociarNum.png" width="70%" height="70%" />
