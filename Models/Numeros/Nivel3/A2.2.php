@@ -13,7 +13,7 @@
   
 </head>
 <body>
-
+ 
     <center>
 <img src="../Imagenes/Nivel3/7.png" width="10%" height="12%" />
 <img src="../Imagenes/Nivel3/8.png" width="10%" height="16%" />

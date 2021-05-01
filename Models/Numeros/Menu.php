@@ -21,7 +21,7 @@ if(!isset($usuario)){
 <body> 
 
 <head>
-   
+    
  <center>
  <br><br><br><br><br><br><br>
     <a href="Seleccion.php" style=" background: url(Imagenes/Menu/btnInicio.png) /* Url de la imagen */ no-repeat center center, #62BC0F /* Color del botón */; background-size: 105%; height: 150px;  /* Alto del botón */

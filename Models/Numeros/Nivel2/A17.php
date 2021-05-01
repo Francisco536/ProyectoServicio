@@ -17,7 +17,7 @@
 height: 90px;  /* Alto del botón */
   width: 100px;  /* Ancho del botón */"class="boton"></a>
 </head>
-<body>      
+<body>       
 
 <section1><center>
 <br>

@@ -10,7 +10,7 @@ if(!isset($usuario)){
     header("location: ../../login.php");
 
 
-}
+} 
 ?>
 <head>
     <meta charset="UTF-8">

@@ -16,7 +16,7 @@
 #62BC0F /* Color del botón */; background-size: 110%; height: 55px;  /* Alto del botón */
   width: 110px;  /* Ancho del botón */"class="leekids" ></a>
 
-          
+           
 <a href="Seleccion.php" style=" background: url(../Imagenes/Menu/btnSalir.png) /* Url de la imagen */ no-repeat center center 
 /* Color del botón */; background-size: 125%; 
 height: 90px;  /* Alto del botón */
