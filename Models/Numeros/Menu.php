@@ -31,7 +31,7 @@ if(!isset($usuario)){
   width: 100px;  /* Ancho del botón */"class="boton"></a> 
   
 <a href="../menu.php" style=" background: url(Imagenes/041-home.PNG) /* Url de la imagen */ no-repeat center center, 
-#62BC0F /* Color del botón */; background-size: 50%; height: 75px;  /* Alto del botón */
+ background-size: 50%; height: 75px;  /* Alto del botón */
   width: 110px;  /* Ancho del botón */"class="boton1" ></a>
    </center>
  
