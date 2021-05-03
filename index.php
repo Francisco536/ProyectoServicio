@@ -10,7 +10,7 @@
   <LINK REL="stylesheet" TYPE="text/css" HREF="css/estilo_index.css">
 </head>
 
-<body background = "Imagenes/fondo_index.png">
+<body background = "Imagenes/fondo_index.png" style="background-size:50% 50%;">
 
 <div class="container">
 
