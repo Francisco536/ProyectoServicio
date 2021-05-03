@@ -16,6 +16,7 @@
 
 
     <div class="login-wrap">
+	    <a href="inicio.php" class="boton verde">JUGAR</a>
         <div class="login-html">
           <div class="login-form">
             <div class="sign-in-htm">
@@ -25,7 +26,7 @@
               <br></br>
               <br></br>
              <div class="modal-footer">
-               <a href="inicio.php" class="boton verde">JUGAR</a>
+               
              
              </div>
             </div>
