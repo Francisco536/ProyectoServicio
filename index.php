@@ -26,7 +26,7 @@
               <br></br>
              <div class="modal-footer">
                <a href="inicio.php" class="boton verde">JUGAR</a>
-               <a href="#" class="boton rojo">SALIR</a>
+             
              </div>
             </div>
           </div>
