@@ -11,11 +11,11 @@
 </head>
 
 <body background = "Imagenes/fondo_index.png" style="background-size:100% 100%;">
-
+<center>
 <div class="container">
- <center>
+ 
  <a href="inicio.php" class="boton verde">JUGAR</a>
- </center>
+
     <div class="login-wrap">
 	   
         <div class="login-html">
