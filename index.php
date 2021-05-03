@@ -13,10 +13,10 @@
 <body background = "Imagenes/fondo_index.png" style="background-size:100% 100%;">
 
 <div class="container">
-
+ <a href="inicio.php" class="boton verde">JUGAR</a>
 
     <div class="login-wrap">
-	    <a href="inicio.php" class="boton verde">JUGAR</a>
+	   
         <div class="login-html">
           <div class="login-form">
             <div class="sign-in-htm">
