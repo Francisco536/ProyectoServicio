@@ -11,9 +11,7 @@
 </head>
 
 <body background = "Imagenes/fondo_index.png" style="background-size:100% 100%;">
-<div class="boton-inicio">
-	 <a href="inicio.php" class="boton verde">JUGAR</a>
-	</div>
+
 <div class="container">
  
 
@@ -22,6 +20,7 @@
 	   
         <div class="login-html">
           <div class="login-form">
+		  	 <a href="inicio.php" class="boton verde">JUGAR</a>
             <div class="sign-in-htm">
 
               <br></br>
