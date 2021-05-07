@@ -12,29 +12,11 @@
 
 <body background = "Imagenes/fondo_index.png" style="background-size:100% 100%;">
 
-<div class="container">
- 
 
-
-    <div class="login-wrap">
-	   
-        <div class="login-html">
-          <div class="login-form">
-		  	
-            <div class="sign-in-htm">
-
-              <br></br>
-              <br></br>
-              <br></br>
-              <br></br>
              <div class="modal-footer">
                 <a href="inicio.php" class="boton verde">JUGAR</a>
              
              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-</div>
+
 </body>
 </html>
