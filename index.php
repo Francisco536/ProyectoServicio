@@ -10,7 +10,7 @@
   <LINK REL="stylesheet" TYPE="text/css" HREF="css/estilo_index.css">
 </head>
 
-<body background = "Imagenes/fondo_index.png" style="background-size:100% 130%; top:300px; left:290px;">
+<body background = "Imagenes/fondo_index.png" style="background-size:100% 130%; top:300px; left:270px;">
 
 
              <div class="modal-footer">
