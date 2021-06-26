@@ -10,11 +10,11 @@
   <LINK REL="stylesheet" TYPE="text/css" HREF="css/estilo_index.css">
 </head>
 
-<body background = "Imagenes/fondo_index.png" style="background-size:100% 130%; top:300px; left:270px;">
+<body>
 
 
              <div class="modal-footer">
-                <a href="inicio.php" class="boton verde">JUGAR</a>
+             <big><big> <big><big> <b> <a href="inicio.php" class="boton verde">JUGAR</a></b></big></big></big></big>
              
              </div>
 
