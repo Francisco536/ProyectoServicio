@@ -27,7 +27,7 @@
                  <br></br>
                  <br></br>
 
-                <label for="user" class="label">nombre</label>
+             <b>   <label for="user" class="label">Nombre</label>
                 <input id="user" style="color:#050505" name="usuario" type="text" class="input">
               </div>
               <div class="group">
@@ -36,7 +36,7 @@
 
               </div>
 
-
+              </b>
                 <div class="modal-footer">
 
                   <button id="envio" class="boton azul">INICIAR</button>
