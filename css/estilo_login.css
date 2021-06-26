@@ -5,7 +5,7 @@ body{
 	min-height:600px;*/
 	background:url(Imagenes/loguinA.png) no-repeat center;
 	
-	background-color:hsl(167, 100%, 86%);
+	background-color:hsl(73, 70%, 40%);
 	box-shadow:0 0px 0px 0 rgba(0,0,0,.24),0 0px 0px 0 rgba(0,0,0,.19);
 }
 *,:after,:before{box-sizing:border-box}
