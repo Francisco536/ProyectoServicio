@@ -1,7 +1,22 @@
+body{
+    width:100%;
+    margin:auto;
+    max-width:705px;   
+    min-height:600px;
+    background:url(Imagenes/niveles.png) no-repeat center;
+    
+    background-color:hsl(167, 100%, 86%);
+    box-shadow:0 0px 0px 0 rgba(0,0,0,.24),0 0px 0px 0 rgba(0,0,0,.19);
+}
+
+
 h1 {
      font-size: 500%;
      font-family: 'Helvetica Neue';
     color: #2980B9; }
+
+  
+
 .boton{
     text-shadow: 0px 1px rgba(0, 0, 0, 0.2);
           text-align:center;
