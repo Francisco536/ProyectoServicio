@@ -32,7 +32,7 @@ if(!isset($usuario)){
   
 <a href="../menu.php" style=" background: url(Imagenes/041-home.png) no-repeat center center;
  background-size: 50%; height: 75px;
-  width: 110px; class:"leekids"></a>
+  width: 110px;" class="leekids" ></a>
    </center>
  
     </head>
