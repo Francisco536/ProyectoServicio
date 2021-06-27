@@ -30,9 +30,9 @@ if(!isset($usuario)){
     <a href="../menu.php" style=" background: url(Imagenes/Menu/btnSalir.png) /* Url de la imagen */ no-repeat center center, #62BC0F /* Color del botón */; background-size: 105%; height: 80px;  /* Alto del botón */
   width: 100px;  /* Ancho del botón */"class="boton"></a> 
   
-<a href="../menu.php" style=" background: url(Imagenes/041-home.png) /* Url de la imagen */ no-repeat center center, 
-#62BC0F /* Color del botón */; background-size: 50%; height: 75%;  /* Alto del botón */
-  width: 110px;  /* Ancho del botón */"class="leekids" ></a>
+<a href="../menu.php" style=" background: url(Imagenes/041-home.png) no-repeat center center;
+ background-size: 50%; height: 75px;
+  width: 110px;" class="boton1" ></a>
    </center>
  
     </head>
