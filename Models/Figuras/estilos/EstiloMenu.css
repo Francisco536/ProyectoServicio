@@ -1,12 +1,12 @@
 
 body{
   font-size: 1.4em;
-	background: url(../Imagenes/Menu/Play.png) no-repeat center center fixed;
+	background: url(../Imagenes/Menu/Play1.png) no-repeat center center fixed;
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
 background-size: cover;
-  background-image: url(../Imagenes/Menu/Play.png);
+  background-image: url(../Imagenes/Menu/Play1.png);
 width:100%;
 } 
 .boton {
