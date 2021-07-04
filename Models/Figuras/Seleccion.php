@@ -25,7 +25,7 @@ if(!isset($usuario)){
 </head>
 <body>
 <section> 
-<a href="Nivel1/Ejercicio1.php" style=" background: url(Imagenes/Menu/Uno1.png) /* Url de la imagen */ no-repeat center center 
+<a href="Nivel1/Ejercicio1.php" style=" background: url(Imagenes/Menu/Uno1.PNG) /* Url de la imagen */ no-repeat center center 
 /* Color del botón */; background-size: 125%; 
 height: 215px;  /* Alto del botón */ 
  width: 225px;  /* Ancho del botón */"class="boton"></a>
@@ -35,7 +35,7 @@ height: 215px;  /* Alto del botón */
 height: 215px;  /* Alto del botón */ 
  width: 225px;  /* Ancho del botón */"class="boton2"></a></center>
 
-<a href="Nivel3/Seleccion.php" style=" background: url(Imagenes/Menu/Tres3.png) /* Url de la imagen */ no-repeat center center 
+<a href="Nivel3/Seleccion.php" style=" background: url(Imagenes/Menu/Tres3.PNG) /* Url de la imagen */ no-repeat center center 
 /* Color del botón */; background-size: 150%; 
 height: 215px;  /* Alto del botón */ 
  width: 225px;  /* Ancho del botón */"class="boton3"></a>
