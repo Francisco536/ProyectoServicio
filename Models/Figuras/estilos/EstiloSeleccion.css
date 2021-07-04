@@ -40,7 +40,7 @@ inset 0 10px 15px rgba(255,255,255,.35), inset 0 -10px 15px rgba(0,0,0,.05), ins
   position: relative;
   top: -30px; 
   display: table;
-  border-radius: 5%;
+  border-radius: 100%;
   cursor: pointer;
     box-shadow:
 /* Sombras externa */
@@ -54,7 +54,7 @@ inset 0 10px 15px rgba(255,255,255,.35), inset 0 -10px 15px rgba(0,0,0,.05), ins
 
   
   display: table;
-  border-radius: 5%;
+  border-radius: 100%;
   cursor: pointer;
     box-shadow:
 /* Sombras externa */
