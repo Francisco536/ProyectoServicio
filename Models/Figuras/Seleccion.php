@@ -26,12 +26,12 @@ if(!isset($usuario)){
 <body>
 <section> 
 <a href="Nivel1/Ejercicio1.php" style=" background: url(Imagenes/Menu/niveluno.png) /* Url de la imagen */ no-repeat center center 
-/* Color del botón */; background-size: 125%; 
+/* Color del botón */; background-size: 150%; 
 height: 215px;  /* Alto del botón */ 
  width: 225px;  /* Ancho del botón */"class="boton"></a>
 <center>
  <a href="Nivel2/Seleccion.php" style=" background: url(Imagenes/Menu/niveldos.png) /* Url de la imagen */ no-repeat center center 
-/* Color del botón */; background-size: 100%; 
+/* Color del botón */; background-size: 150%; 
 height: 215px;  /* Alto del botón */ 
  width: 225px;  /* Ancho del botón */"class="boton2"></a></center>
 
