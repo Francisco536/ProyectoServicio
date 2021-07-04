@@ -38,7 +38,7 @@ inset 0 10px 15px rgba(255,255,255,.35), inset 0 -10px 15px rgba(0,0,0,.05), ins
 
 .boton2 {
   position: relative;
-  top: 8px; left:750px;
+  top: -30px;
   display: table;
   border-radius: 100%;
   cursor: pointer;
@@ -50,7 +50,7 @@ inset 0 10px 15px rgba(255,255,255,.35), inset 0 -10px 15px rgba(0,0,0,.05), ins
 }
 .boton3 {
   position: relative;
-  top: -412px;  left:635px;
+  top: -412px;  left:775px;
 
   
   display: table;
