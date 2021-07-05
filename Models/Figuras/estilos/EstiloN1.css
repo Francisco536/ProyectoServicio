@@ -12,7 +12,7 @@ width:100%;
   }  
   .boton {
     position: relative;
-    top: 110px; left:-190px;
+    top: 110px; left:-180px;
   
     display: table;
     border-radius: 100%;
@@ -33,7 +33,7 @@ width:100%;
   }
   
   .boton2 {position: relative;
-    top: -115px; left:200px;
+    top: -115px; left:190px;
   
     display: table;
     border-radius: 100%;
@@ -60,7 +60,7 @@ width:100%;
   
   .boton4 {
     position: relative;
-    top: -130px; left:780px;
+    top: -140px; left:740px;
   
     display: table;
     border-radius: 100%;
