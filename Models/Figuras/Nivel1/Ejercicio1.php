@@ -33,7 +33,7 @@ background-size: 135%;
  height: 90px;  /* Alto del botón */
   width: 100px;  /* Ancho del botón */"class="boton4"></a> 
 
-      <a href="../menu.php" style=" background: url(Imagenes/041-home.png) no-repeat center center;
+      <a href="../menu.php" style=" background: url(../Imagenes/041-home.png) no-repeat center center;
  background-size: 50%; height: 75px;
   width: 110px; margin:70px 50px;" class="leekids" ></a>
 </section>
